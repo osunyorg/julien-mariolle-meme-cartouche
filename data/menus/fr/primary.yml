@@ -36,6 +36,13 @@ items:
   children: []
   path: "/pages/le-club-ephemere"
   file: content/fr/pages/le-club-ephemere/_index.html
+- title: Salles de concerts
+  target: "/salles-de-concerts/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/salles-de-concerts"
+  file: content/fr/pages/salles-de-concerts/_index.html
 - title: URBAN SKETCHERS
   target: "/urban-sketchers/"
   kind: page
