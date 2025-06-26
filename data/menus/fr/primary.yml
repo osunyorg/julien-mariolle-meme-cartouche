@@ -43,6 +43,13 @@ items:
   children: []
   path: "/pages/salles-de-concerts"
   file: content/fr/pages/salles-de-concerts/_index.html
+- title: Musiques du monde
+  target: "/musiques-du-monde/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/musiques-du-monde"
+  file: content/fr/pages/musiques-du-monde/_index.html
 - title: performances graphiques / animations
   target: "/performances-graphiques-animations/"
   kind: page
