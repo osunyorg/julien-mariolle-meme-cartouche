@@ -43,6 +43,13 @@ items:
   children: []
   path: "/pages/urban-sketchers"
   file: content/fr/pages/urban-sketchers/_index.html
+- title: performances graphiques / animations
+  target: "/performances-graphiques-animations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/performances-graphiques-animations"
+  file: content/fr/pages/performances-graphiques-animations/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
