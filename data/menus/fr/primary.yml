@@ -8,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: CONFLUENCE ROCK
-  target: "/confluence-rock/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/confluence-rock"
-  file: content/fr/pages/confluence-rock/_index.html
 - title: HELLFEST
   target: "/dessins-rock/"
   kind: page
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/pages/dessins-rock"
   file: content/fr/pages/dessins-rock/_index.html
+- title: CONFLUENCE ROCK
+  target: "/confluence-rock/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/confluence-rock"
+  file: content/fr/pages/confluence-rock/_index.html
 - title: FEST'ARTS
   target: "/festarts/"
   kind: page
