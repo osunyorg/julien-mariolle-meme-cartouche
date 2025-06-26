@@ -9,12 +9,12 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Hellfest'
-  target: "/dessins-rock/"
+  target: "/hellfest/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/dessins-rock"
-  file: content/fr/pages/dessins-rock/_index.html
+  path: "/pages/hellfest"
+  file: content/fr/pages/hellfest/_index.html
 - title: Confluence Rock
   target: "/confluence-rock/"
   kind: page
