@@ -1,20 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Hellfest'
-  target: "/hellfest/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/hellfest"
-  file: content/fr/pages/hellfest/_index.html
-- title: Hellfest'
-  target: "/hellfest/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/hellfest"
-  file: content/fr/pages/hellfest/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -22,20 +8,13 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Hellfest'
+  target: "/hellfest/"
   kind: page
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Confluence Rock
-  target: "/confluence-rock/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/confluence-rock"
-  file: content/fr/pages/confluence-rock/_index.html
+  path: "/pages/hellfest"
+  file: content/fr/pages/hellfest/_index.html
 - title: Confluence Rock
   target: "/confluence-rock/"
   kind: page
@@ -50,20 +29,6 @@ items:
   children: []
   path: "/pages/festarts"
   file: content/fr/pages/festarts/_index.html
-- title: Fest'Arts
-  target: "/festarts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/festarts"
-  file: content/fr/pages/festarts/_index.html
-- title: Le Club Ephémère
-  target: "/le-club-ephemere/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/le-club-ephemere"
-  file: content/fr/pages/le-club-ephemere/_index.html
 - title: Le Club Ephémère
   target: "/le-club-ephemere/"
   kind: page
@@ -78,20 +43,6 @@ items:
   children: []
   path: "/pages/salles-de-concerts"
   file: content/fr/pages/salles-de-concerts/_index.html
-- title: Salles de concerts
-  target: "/salles-de-concerts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/salles-de-concerts"
-  file: content/fr/pages/salles-de-concerts/_index.html
-- title: Musiques du monde
-  target: "/musiques-du-monde/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/musiques-du-monde"
-  file: content/fr/pages/musiques-du-monde/_index.html
 - title: Musiques du monde
   target: "/musiques-du-monde/"
   kind: page
@@ -106,13 +57,6 @@ items:
   children: []
   path: "/pages/performances-graphiques-animations"
   file: content/fr/pages/performances-graphiques-animations/_index.html
-- title: performances graphiques / animations
-  target: "/performances-graphiques-animations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/performances-graphiques-animations"
-  file: content/fr/pages/performances-graphiques-animations/_index.html
 - title: Urban Sketchers
   target: "/urban-sketchers/"
   kind: page
@@ -120,20 +64,6 @@ items:
   children: []
   path: "/pages/urban-sketchers"
   file: content/fr/pages/urban-sketchers/_index.html
-- title: Urban Sketchers
-  target: "/urban-sketchers/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/urban-sketchers"
-  file: content/fr/pages/urban-sketchers/_index.html
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
