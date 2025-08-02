@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/jazz"
   file: content/fr/pages/jazz/_index.html
-- title: THEATRE
+- title: Théâtre
   target: "/theatre/"
   kind: page
   new_tab: false
