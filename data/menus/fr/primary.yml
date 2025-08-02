@@ -8,14 +8,14 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: ROCK
+- title: Rock
   target: "/rock/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/rock"
   file: content/fr/pages/rock/_index.html
-- title: JAZZ
+- title: Jazz
   target: "/jazz/"
   kind: page
   new_tab: false
