@@ -8,21 +8,21 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Rock
+- title: Festivals Rock
   target: "/rock/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/rock"
   file: content/fr/pages/rock/_index.html
-- title: Jazz
+- title: Salles de concerts
   target: "/jazz/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/jazz"
   file: content/fr/pages/jazz/_index.html
-- title: Théâtre
+- title: Arts de la rue
   target: "/theatre/"
   kind: page
   new_tab: false
@@ -36,7 +36,7 @@ items:
   children: []
   path: "/pages/urban-sketchers"
   file: content/fr/pages/urban-sketchers/_index.html
-- title: performances graphiques / animations
+- title: Performances graphiques
   target: "/performances-graphiques-animations/"
   kind: page
   new_tab: false
