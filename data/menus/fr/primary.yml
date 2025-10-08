@@ -29,7 +29,7 @@ items:
   children: []
   path: "/pages/theatre"
   file: content/fr/pages/theatre/_index.html
-- title: Urban Sketchers
+- title: Street Life
   target: "/urban-sketchers/"
   kind: page
   new_tab: false
