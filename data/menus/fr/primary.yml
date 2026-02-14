@@ -2,45 +2,57 @@
 title: Menu principal
 items:
 - title: Mémé Cartouche
+  slug: meme-cartouche
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Festivals Rock
+  slug: festivals-rock
   target: "/rock/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/rock"
   file: content/fr/pages/rock/_index.html
 - title: Salles de concerts
+  slug: salles-de-concerts
   target: "/jazz/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/jazz"
   file: content/fr/pages/jazz/_index.html
 - title: Arts de la rue
+  slug: arts-de-la-rue
   target: "/theatre/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/theatre"
   file: content/fr/pages/theatre/_index.html
 - title: Street Life
+  slug: street-life
   target: "/urban-sketchers/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/urban-sketchers"
   file: content/fr/pages/urban-sketchers/_index.html
 - title: Performances graphiques
+  slug: performances-graphiques
   target: "/performances-graphiques-animations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/performances-graphiques-animations"
   file: content/fr/pages/performances-graphiques-animations/_index.html
 
