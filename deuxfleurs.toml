@@ -22,3 +22,7 @@ to = "/equipe/equipe-editoriale/"
 from = "/archives-expositions/index.html"
 to = "/expositions/archives-expositions/"
 
+[[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/castro-camera-meme-cartouchepdf/"
+
